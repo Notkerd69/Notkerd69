@@ -4,7 +4,8 @@
 - Currently working on my device tree for the Motorola Moto G82 (rhodep)
 - These device tree are used in Android Custom Rom.
 
-[![Notkerd69  github stats](https://github-readme-stats.vercel.app/api?username=Notkerd69&color=green)](https://github.com/Notkerd69)
+## Views
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Notkerd69.Notkerd69)
 
 <!--
 **Notkerd69/Notkerd69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
